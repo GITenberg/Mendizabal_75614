@@ -1,0 +1,63 @@
+_repo: Mendizabal_75614
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pérez Galdós, Benito
+    aliases:
+    - Galdós, Benito Pérez
+    - Perez Galdos, Benito
+    - Galdós, Pérez
+    - Galdós, B. Pérez
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+    - https://es.wikipedia.org/wiki/Benito_P%C3%A9rez_Gald%C3%B3s
+description: 'Reading ease score: 62.2 (8th & 9th grade). Neither easy nor difficult
+  to read.
+
+  https://es.wikipedia.org/wiki/Mendiz%C3%A1bal_(episodio_nacional)'
+gutenberg_bookshelf:
+- 'Browsing: History - European'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75614'
+language: es
+pgterms:marc904: https://archive.org/details/mendizbal00prez
+pgterms:marc905: 20250114043912prezgalds
+pgterms:marc906: '1906'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box. (This book was produced from images generously
+  made available by The Internet Archive/Canadian Libraries.)
+publication_note: '  $aMadrid :$bPerlado, Páez y Compañía, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alvarez y Mendizábal, Juan, 1790-1853 -- Fiction'
+- !lcsh 'Spain -- History -- Isabella II, 1833-1868 -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+summary: '"Mendizábal" by Benito Pérez Galdós is a historical novel written in the
+  late 19th century. This work is part of Galdós''s "Episodios Nacionales," a series
+  that chronicles Spain''s historical events through the eyes of vivid characters.
+  The narrative unfolds amidst the backdrop of Spain''s tumultuous political landscape
+  in the 19th century, primarily focusing on the character of Fernando Calpena, a
+  young man arriving in Madrid eager for adventure and opportunity.  The opening of
+  the novel introduces Fernando Calpena, who arrives in Madrid and is immediately
+  engulfed in a bustling scene at a local inn. While awaiting a mysterious acquaintance,
+  he reflects on the excitement and peril associated with his new city. He is approached
+  by an unsavory-looking character who reveals that he has been sent to escort him
+  to a guesthouse, raising Fernando''s suspicions about his circumstances. Once at
+  the guesthouse, he learns he has been welcomed in a manner fuelled by connections
+  to the influential Mendizábal, a minister central to the political reform efforts
+  in Spain. As Fernando navigates through this unfamiliar world of political intrigue
+  and societal ambition, he begins to forge relationships with his fellow tenants,
+  including a dialogue rich with political commentary that sets the stage for his
+  adventures to unfold. (This is an automatically generated summary.)'
+title: Mendizábal
+url: http://www.gutenberg.org/ebooks/75614
