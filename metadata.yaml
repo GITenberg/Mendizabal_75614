@@ -1,5 +1,8 @@
 _repo: Mendizabal_75614
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75614-h/images/cover.jpg
 creator:
   author:
     agent_name: Pérez Galdós, Benito
@@ -19,6 +22,8 @@ description: 'Reading ease score: 62.2 (8th & 9th grade). Neither easy nor diffi
   to read.
 
   https://es.wikipedia.org/wiki/Mendiz%C3%A1bal_(episodio_nacional)'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75614#Mendizabal
 gutenberg_bookshelf:
 - 'Browsing: History - European'
 - 'Browsing: Fiction'
